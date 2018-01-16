@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Logic", "Common.Logic\Common.Logic.csproj", "{18483A35-25A8-4182-AFC6-74251F6B1B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Selenium.Logic", "Common.Selenium.Logic\Common.Selenium.Logic.csproj", "{EE573291-65A5-4568-8778-E3B0FBCF45F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Selenium.Models", "Common.Selenium.Models\Common.Selenium.Models.csproj", "{75A8605D-927D-4F03-B2C1-1CF3D0DE731D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{D5ABFB80-35AC-4D90-B73F-76934BBB459C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{7AB9F3A0-F704-4593-B9B3-5E0F0B6401D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAutomation", "WebAutomation", "{96D2EB44-8481-49D7-8553-D7CD8A519F47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Asserts", "Asserts", "{061DC0A5-2FE5-4EA0-8040-433B58C643B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18483A35-25A8-4182-AFC6-74251F6B1B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18483A35-25A8-4182-AFC6-74251F6B1B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18483A35-25A8-4182-AFC6-74251F6B1B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18483A35-25A8-4182-AFC6-74251F6B1B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE573291-65A5-4568-8778-E3B0FBCF45F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE573291-65A5-4568-8778-E3B0FBCF45F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE573291-65A5-4568-8778-E3B0FBCF45F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE573291-65A5-4568-8778-E3B0FBCF45F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A8605D-927D-4F03-B2C1-1CF3D0DE731D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A8605D-927D-4F03-B2C1-1CF3D0DE731D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A8605D-927D-4F03-B2C1-1CF3D0DE731D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A8605D-927D-4F03-B2C1-1CF3D0DE731D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{18483A35-25A8-4182-AFC6-74251F6B1B42} = {D5ABFB80-35AC-4D90-B73F-76934BBB459C}
+		{EE573291-65A5-4568-8778-E3B0FBCF45F7} = {D5ABFB80-35AC-4D90-B73F-76934BBB459C}
+		{75A8605D-927D-4F03-B2C1-1CF3D0DE731D} = {D5ABFB80-35AC-4D90-B73F-76934BBB459C}
+	EndGlobalSection
+EndGlobal

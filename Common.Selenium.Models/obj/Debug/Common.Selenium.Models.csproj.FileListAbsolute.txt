@@ -1,0 +1,8 @@
+C:\Users\Erik\Source\Repos\TrelloAutomation\Trello.Feature\Common.Selenium.Models\bin\Debug\Common.Selenium.Models.dll
+C:\Users\Erik\Source\Repos\TrelloAutomation\Trello.Feature\Common.Selenium.Models\bin\Debug\Common.Selenium.Models.pdb
+C:\Users\Erik\Source\Repos\TrelloAutomation\Trello.Feature\Common.Selenium.Models\obj\Debug\Common.Selenium.Models.dll
+C:\Users\Erik\Source\Repos\TrelloAutomation\Trello.Feature\Common.Selenium.Models\obj\Debug\Common.Selenium.Models.pdb
+C:\Users\Erik\Source\Repos\StudentManagementAutomation\Common.Selenium.Models\bin\Debug\Common.Selenium.Models.dll
+C:\Users\Erik\Source\Repos\StudentManagementAutomation\Common.Selenium.Models\bin\Debug\Common.Selenium.Models.pdb
+C:\Users\Erik\Source\Repos\StudentManagementAutomation\Common.Selenium.Models\obj\Debug\Common.Selenium.Models.dll
+C:\Users\Erik\Source\Repos\StudentManagementAutomation\Common.Selenium.Models\obj\Debug\Common.Selenium.Models.pdb
